@@ -1,0 +1,30 @@
+# Dependency directories
+node_modules/
+.cache/
+
+# Output directories
+dist/
+build/
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and editor files
+.idea/
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mac OS files
+.DS_Store
+
+# Miscellaneous
+*.log
+*.swp
